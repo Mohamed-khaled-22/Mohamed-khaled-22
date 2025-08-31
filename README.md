@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 💻 Front-End Developer متخصص في **React**  
-- 🎨 مهتم بمجال **UI/UX** وبحب أركز على التفاصيل عشان أطلع تصميمات مريحة واحترافية  
-- 🌱 بشتغل دايمًا على تطوير نفسي في أحدث تقنيات الـ Front-End  
-- 🤝 متاح للتعاون في مشاريع جديدة أو فرص عمل  
+- 💻 Front-End Developer specialized in **React**  
+- 🎨 Passionate about **UI/UX** and always focusing on creating clean and user-friendly designs  
+- 🌱 Continuously learning and improving my skills with the latest front-end technologies  
+- 🤝 Open to collaboration on projects and new opportunities  
 
 ---
 
@@ -34,19 +34,19 @@
 ## 📌 Featured Projects
 
 ### 🌐 Portfolio
-- موقع شخصي بيعرض كل أعمالي + فيه **Dark/Light Mode** + **Animations**  
+- Personal portfolio website with **Dark/Light Mode** + **Smooth Animations**  
 - [🔗 Live Demo](https://mohamed-khaled-22.github.io/Portfolio/) | [💻 GitHub](https://github.com/Mohamed-khaled-22/Portfolio)
 
 ---
 
 ### ☁️ Weather App
-- تطبيق بيعرض الطقس باستخدام **Weather API** + تصميم بـ **React & Material UI**  
+- Weather application using **Weather API** + designed with **React & Material UI**  
 - [🔗 Live Demo](https://mohamed-khaled-22.github.io/Weather-App/) | [💻 GitHub](https://github.com/Mohamed-khaled-22/Weather-App)
 
 ---
 
 ### 🖼️ Image Editor
-- أداة للتعديل على الصور باستخدام **Vanilla JS** مع واجهة بسيطة وتفاعلية  
+- Image editing tool built with **Vanilla JS** and an interactive simple UI  
 - [🔗 Live Demo](https://mohamed-khaled-22.github.io/Image-Editor/) | [💻 GitHub](https://github.com/Mohamed-khaled-22/Image-Editor)
 
 ---
