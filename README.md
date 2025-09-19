@@ -33,6 +33,12 @@
 
 ## 📌 Featured Projects
 
+### 🌐 ELASY-Store
+- An e-commerce front-end store for the latest PC components, developed with **React**, **Redux**, **React Router**, and styled with **Tailwind CSS**. It includes **user login UI**, **dynamic product categories**, **search functionality**, **add-to-cart** with quantity management, and a fake **payment flow** — all powered by a **local mock API** for product data.
+- [🔗 Live Demo](https://mohamed-khaled-22.github.io/ELASY-Store/) | [💻 GitHub](https://github.com/Mohamed-khaled-22/ELASY-Store)
+
+---
+
 ### 🌐 Portfolio
 - Personal portfolio website with **Dark/Light Mode** + **Smooth Animations**  
 - [🔗 Live Demo](https://mohamed-khaled-22.github.io/Portfolio/) | [💻 GitHub](https://github.com/Mohamed-khaled-22/Portfolio)
